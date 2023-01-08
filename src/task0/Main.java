@@ -1,6 +1,6 @@
 package task0;
 
-public class testmain {
+public class Main {
 
     public static void main(String[] args) {
         ThreadSafeList<Integer> list = new ThreadSafeList<>();
